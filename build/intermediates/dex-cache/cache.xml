@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64800482965f120b6268f01ecb41c3b7de1ae112">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2873da81bab4854ea07d0508562e7e0adaaa1379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_6ef1d739da6718eb0b2bdf4cae7cc6f2ea29ae2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_0ac838b8a0411e98455a77b3eeb63785242fb2a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yqq\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fb0468b21fe9bacb0bd271f2d5e2d9da9632d27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6aebad491e9818d1941db243d849eec6665d470a">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\instant-run_b7f795113d03573aabe2baad454253c13302b8fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ce8c8d2b5cbba278b3fa63bc17277b3d548fb258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_21e521a159cd8a5a30a891d910eb90264dd30140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\android_project\Scudoctor-master\Scudoctor-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_0bd82897b542af3b9ae374631442a193a057c9a5.jar" />
+    </item>
+
+</items>
