@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <!--<include layout="@layout/top_menu_home" />-->
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rootMessageView"
+        android:orientation="vertical" />
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical">-->
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="标题1"-->
+    <!--android:textAlignment="center"-->
+    <!--android:textSize="20sp"/>-->
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="horizontal">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="来源1"-->
+    <!--android:layout_gravity="left"-->
+    <!--android:textSize="20sp"/>-->
+    <!--</LinearLayout>-->
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="@color/bg_Gray_light" />-->
+    <!--</LinearLayout>-->
+
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical">-->
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="标题2"-->
+    <!--android:textAlignment="center"-->
+    <!--android:textSize="20sp"/>-->
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="horizontal">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="来源2"-->
+    <!--android:layout_gravity="left"-->
+    <!--android:textSize="20sp"/>-->
+    <!--</LinearLayout>-->
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="@color/bg_Gray_light" />-->
+    <!--</LinearLayout>-->
+
+
+    <!--</LinearLayout>-->
+
+</LinearLayout>
